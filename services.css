@@ -1,0 +1,144 @@
+li{
+    padding-right: 20px;
+    color: black;
+    
+  }
+  .ser{
+    margin-top: 5px;
+  }
+.backimg1{
+    background-image: url(./images/Rectangle\ 20.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+.he1{
+    text-align: center;
+    color: white;
+    font-family: DM serif Display;
+    padding-top: 100px;
+    font-size: 70px;
+}
+.text{
+    text-align: center;
+}
+.head2{
+    font-family: DM Serif Display;
+    font-size: 30px;
+  }
+  .para1{
+    font-family: jost;
+  }
+  #bt1{
+    font-family: jost;
+    font-size: small;
+    }
+.interior{
+color: #CDA274;
+}
+.div5{
+    text-align: center;
+}
+.t1{
+    font-family: DM Serif Display;
+    font-size: 70px;
+    flex-wrap: wrap;
+  }
+  .t2{
+    font-family: jost;
+    flex-wrap: wrap;
+  }
+.img1{
+    height: 100%;
+    width: 100%;
+}
+.q1{
+    font-family: DM Serif Display;
+    text-align: end;
+    color: #C76904;
+}
+.q2{
+    font-family: DM Serif Display;
+
+}
+.q3{
+    font-family: jost;
+}
+.q11{
+    font-family: DM Serif Display;
+    text-align: start;
+    color: #C76904;
+}
+.backimg{
+    background-image: url(./images/Rectangle\ 10.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+  }
+.y1{
+  
+    font-family:DM Serif Display;
+    color: white;
+  }
+.y2{
+  
+    font-family: jost;
+    color: white;
+}
+.v4{
+    text-align: center;
+  }
+.para{
+    font-family: DM Serif Display;
+    font-size: 30px;
+}
+.i1{
+    padding: 10px;
+}
+.hr1{
+    font-family: DM Serif Display;
+}
+.but1{
+    background-color: #CDA274;
+    border-radius: 5px;
+   
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: inter;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#bt1{
+  font-family: jost;
+  font-size: small;
+  }
+@media(max-width:600px){
+.container{
+  width: 100%;
+  display: flexbox;
+  flex-wrap: wrap;
+
+}
+.head2{
+  font-size: 20px;
+  flex-wrap: wrap;
+  display: flex;
+}
+.para1{
+  font-size: 100%;
+  flex-wrap: wrap;
+  display: flex;
+}
+.t1{
+  font-size: 40px;
+}
+.but1{
+  width: 100%;
+ text-align: center;
+ height: 50px;
+ font-size: 6px;
+ flex-wrap: wrap;
+}
+}

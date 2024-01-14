@@ -1,0 +1,57 @@
+li{
+    padding-right: 20px;
+    color: black;
+    
+  }
+  .ser{
+    margin-top: 5px;
+  }
+  .backimg1{
+    background-image: url(./images/Rectangle\ 20\ \(5\).jpg);
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+} h1{
+    text-align: center;
+    font-family: DM Serif Display;
+}
+
+.i1{
+    padding: 10px;
+}
+.aria{
+    border-top: none!important;
+    border-right: none!important;
+    border-left: none!important;
+
+}
+.jin{
+    text-align: end;
+}
+.but1{
+    background-color: #292F36;
+  
+ 
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: inter;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.hjk{
+    text-align: center;
+}
+.img6{
+    width: 100%;
+}
+.para{
+    font-family: DM Serif Display;
+    font-size: 30px;
+}
+
+.hr1{
+    font-family: DM Serif Display;
+}

@@ -1,0 +1,62 @@
+li{
+    padding-right: 20px;
+    color: black;
+    
+  }
+  .ser{
+    margin-top: 5px;
+  }
+.backimg1{
+    background-image: url(./images/Rectangle\ 40\ \(5\).jpg);
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+.he1{
+    text-align: center;
+    color: white;
+    font-family: DM serif Display;
+    padding-top: 100px;
+    font-size: 70px;
+    flex-wrap: wrap;
+}
+.pl{
+    color: #CDA274;
+}
+.img1{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-family: DM Serif Display;
+    flex-wrap: wrap;
+}
+.q11{
+    font-family: DM Serif Display;
+    text-align: start;
+    flex-wrap: wrap;
+    
+}
+.q3{
+    font-family: jost;
+    flex-wrap: wrap;
+}
+.m1{
+    border-style:none!important;
+  }
+.card-title{
+    font-family: DM Serif Display;
+    flex-wrap: wrap;
+}
+.para{
+    font-family: DM Serif Display;
+    font-size: 30px;
+    flex-wrap: wrap;
+}
+.hr1{
+    font-family: DM Serif Display;
+    flex-wrap: wrap;
+}
+.i1{
+    padding: 10px;
+}

@@ -1,0 +1,315 @@
+.rec{
+  background-image: url(./images/Rectangle\ 1.jpg);
+  height: 700px;
+  background-size: cover;
+  border-radius: 0px 0px 90px;
+ /* position: absolute; */
+ 
+}
+li{
+  padding-right: 20px;
+  color: black;
+  
+}
+.ser{
+  margin-top: 5px;
+}
+.para{
+  font-family: DM Serif Display;
+  font-size: 30px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.he1{
+  font-family: DM Serif Display;
+color: white; 
+font-size: 80px;
+
+}
+.she1{
+  color: white;
+  font-size: 28px;
+  font-family: jost;
+}
+.but1{
+  background-color: #CDA274;
+  
+ 
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: inter;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.para1{
+  font-family: jost;
+}
+.text{
+  text-align: center;
+ 
+
+}
+.head2{
+  font-family: DM Serif Display;
+  font-size: 30px;
+}
+
+
+
+
+.outer-icon {
+  position: relative;
+}
+
+.outer-icon i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.he3{
+  font-family: DM Serif Display;
+color: white;
+} 
+.p2{
+  font-family: jost;
+}
+.div3{
+  height: 100%;
+  width: 100%;
+  background-color:  #D8A876;
+  border-radius: 50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.hed4{
+  font-family: DM Serif Display;
+color: white;
+text-align: center;
+padding: 90px;
+flex-wrap: wrap;
+
+
+}
+
+
+.div5{
+  text-align: center;
+}
+.backimg{
+  background-image: url(./images/Rectangle\ 10.jpg);
+  background-size: cover;
+  height: 300px;
+  width: 100%;
+  flex-wrap: wrap;
+}
+#bt1{
+font-family: jost;
+font-size: small;
+}
+
+.twoimages{
+background-image: url(./images/myfigma.jpg);
+/* background-size: cover; */
+height: 700px;
+background-size: 100% auto; /* or 100% 100% or other values */
+  background-repeat: no-repeat;
+display:flex;
+flex-wrap: wrap;
+width: 100%;
+}
+.head3{
+  font-family: DM Serif Display;
+  color: white;
+  margin-top: 118px;
+  font-size: 50px;
+  flex-wrap: wrap;
+  display: flex;
+}
+.jost{
+  font-size: largec ;
+  color: white;
+  
+}
+.pa1{
+  margin-left: 40px;
+  margin-top: -37px;
+}
+.ps1{
+  color: white;
+}
+.cardiv{
+ border-radius: 100px;
+ display: flex;
+ flex-wrap: wrap;
+}
+.q1{
+margin-top: -63px;
+margin-left: 83px;
+font-size: 15px;
+flex-wrap: wrap;
+display: flex;
+}
+.dil{
+flex-wrap: wrap;
+}
+.alframe{
+  width: 100%;
+}
+.w1{
+  text-align: center;
+}
+.t1{
+  font-family: DM Serif Display;
+  font-size: 70px;
+  flex-wrap: wrap;
+}
+.t2{
+  font-family: jost;
+  flex-wrap: wrap;
+}
+.hub1{
+  text-align: center;
+}
+.hub2{
+  border: 1px solid #CDA274;
+  border-top: 0;
+  border-bottom: 0;
+}
+.hub3{
+  border: 1px solid #CDA274;
+  border-top: 0;
+  border-bottom: 0;
+  border-right: 0;
+}
+.a1{
+  font-family: DM Serif Display;
+  color:#CDA274 ;
+  flex-wrap: wrap;
+}
+.a2{
+  font-family: jost;
+  flex-wrap: wrap;
+}
+.y1{
+  
+  font-family:DM Serif Display;
+  color: white;
+  flex-wrap: wrap;
+}
+.y2{
+  
+  font-family: jost;
+  color: white;
+  flex-wrap: wrap;
+}
+.v4{
+  text-align: center;
+}
+
+.inline{
+  display: inline;
+}
+.i1{
+  padding: 10px;
+}
+.hr1{
+  font-family: DM Serif Display;
+}
+.bd1{
+  padding: 30px;
+  
+}
+
+.n1{
+  border: none;
+  text-decoration: none;
+}
+small{
+  color: white;
+}
+.acon{
+  display: flex;
+  flex-wrap: wrap;
+}
+.aconimage{
+  width: 100%;
+}
+.m1{
+  border-style:none!important;
+}
+
+
+
+@media(max-width:600px){
+  .container{
+    width: 100%;
+    display: flexbox;
+    flex-wrap: wrap;
+  }
+  .he1{
+    font-size:40px;
+    flex-wrap:wrap;
+    display: flex;
+  }
+  .she1{
+    font-size: 100%;
+    flex-wrap:wrap;
+    display: flex;
+  }
+  .but1{
+     width: 50%;
+    text-align: center;
+    height: 50px;
+    font-size: 9px;
+    flex-wrap: wrap;
+  }
+.head2{
+  font-size: 20px;
+  flex-wrap: wrap;
+  display: flex;
+}
+.para1{
+  font-size: 100%;
+  flex-wrap: wrap;
+  display: flex;
+}
+.div4{
+  width: 100%;
+}
+.bt1{
+  width: 100%;
+  font-size: 100%;
+}
+.head3{
+  font-size: 10px;
+  flex-wrap: wrap;
+  margin-top: 5px;
+}
+.jost{
+  font-size: 5px;
+}
+.outer-icon{
+  width: 100%;
+  font-size: 15px;
+  flex-wrap: wrap;
+
+}
+.ps1{
+  font-size: 10px;
+  flex-wrap: wrap;
+}
+span{
+  flex-wrap: wrap;
+ 
+}
+#bt2{
+  font-size: 4px;
+  height: 25px;
+}
+/* .nad1{
+  width: 100%;
+} */
+
+}

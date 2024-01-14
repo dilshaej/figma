@@ -1,0 +1,139 @@
+li{
+    padding-right: 20px;
+    color: black;
+    
+  }
+  .ser{
+    margin-top: 5px;
+  }
+.hen1{
+   font-family: DM Serif Display;
+   flex-wrap: wrap;
+   /* display: flex; */
+   text-align: center;
+   margin-bottom: 70px;
+   
+   
+   
+}
+
+.hub2{
+    text-align: center;
+    border: 1px solid;
+    border-top: 0;
+    border-bottom: 0;
+    flex-wrap: wrap;
+    
+}
+.a1{
+    font-family: DM Serif Display;
+    flex-wrap: wrap;
+    
+}
+.a2{
+    flex-wrap: wrap;
+}
+.q11{
+    font-family: DM Serif Display;
+    text-align: start;
+    flex-wrap: wrap;
+    
+}
+.img1{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.but1{
+    background-color: #292F36;
+  
+ 
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: inter;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.cardiv{
+    border-radius: 100px;
+    display: flex;
+    flex-wrap: wrap;
+   }
+   .div3{
+    height: 100%;
+    width: 100%;
+    background-color:  #D8A876;
+    border-radius: 50px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .hed4{
+    font-family: DM Serif Display;
+  color: white;
+  text-align: center;
+  padding: 90px;
+  flex-wrap: wrap;
+  
+  
+  }
+  .q1{
+    margin-top: -63px;
+    margin-left: 83px;
+    font-size: 15px;
+    flex-wrap: wrap;
+    display: flex;
+    }
+
+    .q3{
+        font-family: jost;
+        flex-wrap: wrap;
+    }
+    .dil{
+        flex-wrap: wrap;
+        }
+.hj1{
+    text-align: center;
+    font-family: DM Serif Display;
+    flex-wrap: wrap;
+}
+
+.aria{
+    border-top: none!important;
+    border-right: none!important;
+    border-left: none!important;
+
+}
+.jin{
+    text-align: center;
+}
+.para{
+    font-family: DM Serif Display;
+    font-size: 30px;
+}
+.hr1{
+    font-family: DM Serif Display;
+}
+.i1{
+    padding: 10px;
+}
+@media(max-width:600px){
+.a1{
+    font-size: 20px;
+
+}
+.nad1{
+    width: 100%;
+    flex-wrap: wrap;
+}
+.but1{
+    width: 100%;
+    text-align: center;
+    height: 50px;
+    font-size: 9px;
+    flex-wrap: wrap;   
+}
+}
+
